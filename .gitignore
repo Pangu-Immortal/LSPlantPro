@@ -1,0 +1,7 @@
+# 构建产物（不影响 repo/ 下的预编译 Maven 产物）
+.cxx/
+**/build/
+.gradle/
+.idea/
+local.properties
+.DS_Store
