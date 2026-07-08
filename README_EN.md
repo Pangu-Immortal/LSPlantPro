@@ -133,7 +133,7 @@ LGPL-3.0 (see [`LICENSE`](./LICENSE)). This repo fully publishes the source incl
 ### Star History
 
 <a href="https://star-history.com/#Pangu-Immortal/LSPlantPro&Date">
-  <img src="https://api.star-history.com/svg?repos=Pangu-Immortal/LSPlantPro&type=Date" width="600" alt="Star History Chart" />
+  <img src="https://img.shields.io/badge/⭐_Star_History-View_Live_Chart-5C6BC0?style=for-the-badge" alt="Star History"/>
 </a>
 
 ### About the Author
