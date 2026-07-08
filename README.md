@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8c0ff,100:3f2b96&height=150&section=header&text=LSPlantPro&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Prebuilt%20prefab%20Maven%20source%20of%20LSPlant%20for%20Android%2016%20%2F%20API%2036&descSize=14&descAlignY=58" alt="LSPlantPro banner" />
+<img src="assets/header.svg" alt="banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C7A96&center=true&vCenter=true&width=680&lines=ART+inline-hook+base+for+modern+Android;VA-adapted+%2B+Android+16+%2F+API+36+ready;Prebuilt+prefab+static+.a%2C+one+line+to+depend+on" alt="typing" />
 
@@ -145,6 +145,6 @@ ROM / 逆向是我长期钻研的技术兴趣。
 
 License: LGPL-3.0,允许商用(需遵守 LGPL 动态链接与源码公开条件)。
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f2b96,100:a8c0ff&height=100&section=footer" alt="footer" />
+<img src="assets/footer.svg" alt="footer" width="100%"/>
 
 </div>
