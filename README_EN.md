@@ -133,13 +133,13 @@ LGPL-3.0 (see [`LICENSE`](./LICENSE)). This repo fully publishes the source incl
 ### Star History
 
 <a href="https://star-history.com/#Pangu-Immortal/LSPlantPro&Date">
-  <img src="https://img.shields.io/badge/⭐_Star_History-View_Live_Chart-5C6BC0?style=for-the-badge" alt="Star History"/>
+  <img src="assets/star-history.svg" alt="Star History" width="640"/>
 </a>
 
 ### About the Author
 
 Primary focus: large-model algorithms / AI / on-device (Agentic · LangGraph · A2A · MCP · ADK · GraphRAG · on-device offline multimodal · automotive · world models).
-ROM / reverse engineering is a technical hobby, not a side business.
+ROM / reverse engineering is a long-standing technical interest of mine.
 
 **Collaboration:** yugu88@126.com · GitHub [@Pangu-Immortal](https://github.com/Pangu-Immortal)
 
